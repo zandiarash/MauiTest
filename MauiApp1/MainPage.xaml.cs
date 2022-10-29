@@ -15,6 +15,6 @@ public partial class MainPage : ContentPage
 		TxtMessage.HorizontalTextAlignment = alt ? TextAlignment.Start : TextAlignment.End;
 		TxtMessage.VerticalTextAlignment = alt ? TextAlignment.Start : TextAlignment.End;
 		alt = !alt;
-    }
+    	}
 }
 
